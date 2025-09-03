@@ -1,0 +1,7 @@
+Un formulario desplegable en modal (login desplegable en modal) esto es lo que se debe de lograr además de las adiciones anteriores habladas en clases
+
+Por hacer:
+
+-> agregar la segunda pagina gracias a las cards
+
+-> agregar un apartado que no recuerdo el nombre, pero tenia que ver con bootstrap 
